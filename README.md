@@ -133,9 +133,11 @@ $ apt-get install fail2ban
 
 ##Install Application
 * **1. Install curl, git, and python-software-properties**
+
   ~~~ sh
   $ apt-get install curl git-core python-software-properties
   ~~~
+  
 * **2. Install NginX**
   To get monst current version add the NginX repo
   ~~~ sh
